@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @sazidrafi
-- 👀 I’m interested in Programming 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-sazidrafi/sazidrafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+the game is an arcade game called Pacman. It is developed by Javascript. download all the files and save it in a folder and open the folder in vs code ,, then run the index.html file to start the game from beginning wiht a log in process.
