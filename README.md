@@ -2,7 +2,10 @@
 <img src="./banner/github_banner.png" alt="Hello world">
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=435&lines=Frontend+Developer;Learning+TypeScript+and+PostgreSQL;Gaming+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+
 <!--- about --->
+
 - 👋 Hi, I’m **[@sazidrafi ](https://github.com/sazidrafi)**
 - 🖥️ I’m currently working on React.js, Next.js for frontend development.
 - 🗄️ Using **Node.js, Express.js and MongoDB** for the backend.
