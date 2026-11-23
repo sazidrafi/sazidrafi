@@ -7,7 +7,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Md. Sazidul Islam</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Frontend+Developer;Learning+TypeScript+and+PostgreSQL;Gaming+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Gaming+%26+Tech+Enthusiast" alt="Typing SVG" /></a>
   </ul>
 </div>
 
