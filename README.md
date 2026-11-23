@@ -38,7 +38,7 @@
 
 ### Database & Model:
 
-[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/touhidcodes)
+[![Database & Model](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://github.com/sazidrafi)
 
 ### Deployment Platform:
 
