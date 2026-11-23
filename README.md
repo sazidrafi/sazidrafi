@@ -1,5 +1,8 @@
-<!--- about --->
+<!--- banner --->
+<img src="./banner/github_banner.png" alt="Hello world">
+<br/>
 
+<!--- about --->
 - 👋 Hi, I’m **[@sazidrafi ](https://github.com/sazidrafi)**
 - 🖥️ I’m currently working on React.js, Next.js for frontend development.
 - 🗄️ Using **Node.js, Express.js and MongoDB** for the backend.
