@@ -6,7 +6,7 @@
 - 🛠️ I’m currently learning Typescript and PostgreSQL.
 - 💬 Ask me about Full-Stack **(React, Next, Node, Express, MongoDB)**.
 - 📝 Follow me on LinkedIn **[LinkedIn](https://www.linkedin.com/in/md-sazidul-islam39/)**
-- 📫 Feel free to reach me out **[Email](sazidrafi1234@gmail.com)**
+- 📫 Feel free to reach me out **[Email](https://mail.google.com/mail/u/2/#inbox?compose=new)**
 
 <br/>
 
